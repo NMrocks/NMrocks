@@ -6,7 +6,9 @@ Hey, I'm Nishant Mishra (aka NM) (you probably know this already). I love Linux,
 
 Reddit: [u/NMrocks28](http://reddit.com/user/NMrocks28)
 
-Twitch: [NMrocks](http://twitch.tv/nmrocks) (I'm not active on Twitch that much)
+Twitch: [NMrocks](https://twitch.tv/nmrocks28/profile) (I'm not active on Twitch that much)
+
+Steam: [NMrocks](https://steamcommunity.com/id/NMrocks/)
 
 Discord: `NMrocks#8769`
 
