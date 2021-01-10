@@ -4,13 +4,13 @@ Hey, I'm Nishant Mishra (aka NM) (you probably know this already). I love Linux,
 
 ### My accounts and profiles
 
-Reddit: [u/NMrocks28](http://reddit.com/user/NMrocks28)
+* Reddit: [u/NMrocks28](http://reddit.com/user/NMrocks28)
 
-Twitch: [NMrocks](https://twitch.tv/nmrocks28/profile) (I'm not active on Twitch that much)
+* Twitch: [NMrocks](https://twitch.tv/nmrocks28/profile) (I'm not active on Twitch that much)
 
-Steam: [NMrocks](https://steamcommunity.com/id/NMrocks/)
+* Steam: [NMrocks](https://steamcommunity.com/id/NMrocks/)
 
-Discord: `NMrocks#8769`
+* Discord: `NMrocks#8769`
 
 You can also contact me by email on my email address: [nmrocksofficial@gmail.com](mailto:nmrocksofficial@gmail.com)
 
