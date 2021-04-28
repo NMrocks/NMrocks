@@ -12,7 +12,7 @@ Hey, I'm Nishant Mishra (aka NM) (you probably know this already). I love Linux,
 
 * Discord: `NMrocks#8769`
 
-You can also contact me by email on my email address: [nmrocksofficial@gmail.com](mailto:nmrocksofficial@gmail.com)
+You can also contact me by email on my email address: [nmrocks2828@gmail.com](mailto:nmrocks2828@gmail.com)
 
 Well, I don't have much to write in this README, so I'll just show you some of my GitHub stats
 
