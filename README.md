@@ -15,7 +15,7 @@ Languages I know:
 * Reddit: [u/NMrocks28](http://reddit.com/user/NMrocks28)
 * Twitch: [NMrocks](https://twitch.tv/nmrocks28/profile) (I'm not active on Twitch that much)
 * Steam: [NMrocks](https://steamcommunity.com/id/NMrocks/)
-* Discord: `NMrocks#8769`
+* Discord: [NMrocks#8769](https://discord.com/users/658886962048008192)
 
 You can also contact me by email on my email address: [nmrocks2828@gmail.com](mailto:nmrocks2828@gmail.com)
 
