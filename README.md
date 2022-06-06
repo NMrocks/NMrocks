@@ -19,4 +19,4 @@ Languages I know:
 
 You can also contact me by email on my email address: [nmrocks2828@gmail.com](mailto:nmrocks2828@gmail.com)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NMrocks&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![NM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NMrocks&show_icons=true&bg_color=DEG,25f5f5,ad22cf&title_color=1a1a1a&text_color=1a1a1a&icon_color=ad22cf&hide_border=true&border_radius=35)
