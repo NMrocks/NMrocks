@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hey, I'm Nishant Mishra (aka NM). I love Linux, Android, and anything open source.
+Hey, I'm NM :)
 
 Languages I know:
 
@@ -13,7 +13,7 @@ Languages I know:
 ### My accounts and profiles
 
 * Reddit: [u/NMrocks28](http://reddit.com/user/NMrocks28)
-* Twitch: [NMrocks](https://twitch.tv/nmrocks28/profile) (I'm not active on Twitch that much)
+* Twitch: [NMrocks](https://twitch.tv/nmrocks28/profile)
 * Steam: [NMrocks](https://steamcommunity.com/id/NMrocks/)
 * Discord: [NMrocks#8769](https://discord.com/users/658886962048008192)
 
